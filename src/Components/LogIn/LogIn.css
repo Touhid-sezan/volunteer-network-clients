@@ -1,0 +1,19 @@
+.login-section {
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.login-section h3{
+    margin-top: 100px;
+}
+.google-btn {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 50px;
+}
