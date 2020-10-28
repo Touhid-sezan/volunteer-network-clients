@@ -1,14 +1,14 @@
+## Project Name: Volunteering Network Application
+
 ## [Live website](https://volunteer-network-31.netlify.app/)
 ## [Server Code](https://github.com/Touhid-sezan/volunteer-network-server)
 
-## Project Name: Volunteering Network Application
-
 ## Features:
-Anyone can see different type of volunteer service.
-Customer can login with google with firebase authentication.
-Customer can register to be a volunteer member.
-Registered data saved to the database and show to dashboard
-Customer can cancelled his registered service anytime.
+* Anyone can see different type of volunteer service.
+* Customer can login with google with firebase authentication.
+* Customer can register to be a volunteer member.
+* Registered data saved to the database and show to dashboard
+* Customer can cancelled his registered service anytime.
 
 
 ## Key technology used:
